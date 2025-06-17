@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/view/login_form.dart';
-import 'package:provider/provider.dart';
-import 'core/service_locator.dart';
-import 'view/home_screen.dart';
-import 'viewmodels/weather_viewmodel.dart';
 
 void main() {
   runApp(MyApp());
